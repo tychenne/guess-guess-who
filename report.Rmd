@@ -1,5 +1,5 @@
 ---
-title: "report"
+title: "A Better 'Guess Who?' Methodology"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
